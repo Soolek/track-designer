@@ -2,7 +2,6 @@
 An interactive tool to help with circuit track design where space available is limited.
 
 ## TODO:
-- App facade using Monogame
 - Load image for track background (satelite image)
 - Create edit state machine
   - AddNew, AddBetween, move, delete track point
